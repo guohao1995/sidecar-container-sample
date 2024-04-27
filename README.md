@@ -8,13 +8,13 @@ In Azure App Service, you can add up to 4 sidecar containers for each sidecar-en
 
 ## For frontend app
 1. Install the required package.
-        ```shell
-            npm install
-        ```
+```
+    npm install
+```
 2. Run the application by using "npm start", the application will be listening by default on **http://localhost:3000**
-        ```shell
-            npm start
-        ```
+```
+    npm start
+```
 
 ## For backend API app
 1. Create a **virtual environment** with any python version >=3.
