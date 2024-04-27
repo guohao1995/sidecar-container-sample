@@ -1,4 +1,4 @@
-# FastAPI
+# Backend API app
 1. Create a **virtual environment** with any python version >=3.
     - If you are using Windows:
         ```shell
