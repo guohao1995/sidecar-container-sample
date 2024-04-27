@@ -7,5 +7,4 @@ eval $(printenv | sed -n "s/^\([^=]\+\)=\(.*\)$/export \1=\2/p" | sed 's/"/\\\"/
 echo "Starting SSH ..."
 service ssh start
 
-# Start Gunicorn
 npm start
